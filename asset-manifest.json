@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/just-zustand/static/css/main.38c81e3e.css",
+    "main.js": "/just-zustand/static/js/main.29ffb92b.js",
+    "index.html": "/just-zustand/index.html",
+    "main.38c81e3e.css.map": "/just-zustand/static/css/main.38c81e3e.css.map",
+    "main.29ffb92b.js.map": "/just-zustand/static/js/main.29ffb92b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c81e3e.css",
+    "static/js/main.29ffb92b.js"
+  ]
+}
